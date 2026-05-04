@@ -52,8 +52,8 @@ I care about:
 
 ## 🛠 Tech stack
 
-**Frontend:** React, Next.js, TypeScript, Angular, Vue
-**State/Data:** Redux, GraphQL, REST
+**Frontend:** React, Next.js, TypeScript, Angular, Vue  
+**State/Data:** Redux, GraphQL, REST  
 **Other:** Docker, CI/CD, PostgreSQL
 
 ---
