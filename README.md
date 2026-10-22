@@ -1,66 +1,63 @@
 # Dmitriy Bardin 👋
 
-**Senior Frontend Engineer → Team Lead track**
+### Senior Frontend Engineer · React · TypeScript · Next.js
 
-10+ years of experience building scalable, high-performance web applications.
-Focused on frontend architecture, complex data-driven systems, and engineering efficiency.
+I build complex web interfaces with a focus on maintainability, clear data flows, and reusable components.
 
----
+My experience spans data platforms, retail finance, public-sector information systems, and content-driven websites. A background in database development and data migration helps me reason beyond the UI — about APIs, data models, and how application components fit together.
 
-## 🚀 What I bring
+## Selected experience
 
-* 🧩 **Architecture ownership** — designing scalable frontend systems (React / TypeScript)
-* ⚙️ **Complex products** — building data-heavy interfaces and analytical platforms
-* 🎨 **Design systems** — creating reusable UI libraries used across projects
-* 🤖 **AI integration** — applying LLMs to improve developer and user workflows
-* 👥 **Mentorship** — supporting engineers through code reviews and knowledge sharing
+### Data platforms & frontend modernization
+- Served as the sole frontend developer for an Angular-based data management platform, independently determining technical implementation.
+- Built application sections and complex, multi-level configuration interfaces in collaboration with backend engineers.
+- Contributed to an Angular-to-React migration, including a new hierarchical configuration tree.
+- Worked on an existing Vue 3 application, addressing data presentation, unnecessary requests, and rendering bottlenecks.
 
----
+### Content platforms & reusable UI
+- Contributed to a Next.js and Strapi platform covering product, learning, news, and event content.
+- Proposed Next.js and contributed to rich-text editing with TipTap.
+- Initiated and carried out the extraction of a shared UI kit into a separate repository for reuse in React and Next.js applications.
 
-## 🏗 Selected impact
+### Financial products
+- Worked as the primary frontend developer on a credit and installment product through pre-release development.
+- Implemented business logic, validation, user flows, and GraphQL integrations using Angular, TypeScript, and RxJS.
 
-* Led **Angular → React migration** without disrupting product delivery
-* Built **corporate UI kit (npm package)** used across multiple teams
-* Developed **AI-powered documentation search (LLM-based)**
-* Improved performance and UX in **complex data platforms**
+### Analytics & operational systems
+- Developed analytical interfaces, monitoring features, and map-based functionality for a citizen request processing system.
+- Built the frontend of an internal data-processing application from scratch alongside a backend developer.
+- Earlier experience includes SQL database development, ETL, and data migration.
 
----
+## Beyond frontend
 
-## 🎯 Career direction
+**End-to-end application development**
 
-I am actively moving into a **Team Lead / Engineering Leadership role**.
+Built and deployed an educational Telegram bot using Python, MySQL, and LLM APIs. Owned architecture, webhooks, provider integrations, prompt iteration, deployment, and basic abuse prevention.
 
-My focus:
+**Technical research & validation**
 
-* Ownership of team outcomes, not just code
-* Technical decision-making and architecture
-* Improving development processes
-* Mentoring and growing engineers
+Developed a semantic search proof of concept using OpenSearch and Hugging Face tooling. Evaluated the prototype against realistic data and identified quality limitations before further production investment.
 
----
+## How I work
 
-## 🧠 How I think
+- **Own implementation decisions.** Follow problems across UI, API, and data boundaries.
+- **Keep systems maintainable.** Improve shared components, clarify state management, and refactor incrementally.
+- **Collaborate across disciplines.** Work with designers and backend engineers to clarify requirements and technical tradeoffs.
+- **Support the team.** Contribute through code reviews, mentoring, and knowledge sharing.
 
-I care about:
+## Technical toolkit
 
-* balancing speed vs quality
-* making systems maintainable at scale
-* reducing cognitive load for teams
-* building predictable development processes
+| Area | Experience |
+| --- | --- |
+| Frontend | TypeScript, JavaScript, React, Next.js, Angular, Vue 3 |
+| State & APIs | Redux, RxJS, Vuex, GraphQL, REST |
+| UI & content | Reusable component libraries, Strapi, TipTap |
+| Quality | Vitest, React DevTools, profiling and debugging |
+| Backend & data | Python, SQL, PostgreSQL, MySQL, MS SQL Server, ETL |
+| Tooling & research | Git, Docker, CI/CD, OpenSearch, Hugging Face, LLM APIs |
 
----
+## Let's connect
 
-## 🛠 Tech stack
+I'm interested in senior frontend roles involving complex products, meaningful technical ownership, and close engineering collaboration.
 
-**Frontend:** React, Next.js, TypeScript, Angular, Vue  
-**State/Data:** Redux, GraphQL, REST  
-**Other:** Docker, CI/CD, PostgreSQL
-
----
-
-## 📫 Contact
-
-* Email: [dmitriy.bardin90@gmail.com](mailto:dmitriy.bardin90@gmail.com)
-* Telegram: @divirus
-
----
+[Email](mailto:dmitriy.bardin90@gmail.com) · [Telegram](https://t.me/divirus)
